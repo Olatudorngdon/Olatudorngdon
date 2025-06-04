@@ -6,7 +6,8 @@ Let's collaborate on
 - Brand design
 - Motion graphics
 - Video editing
-- Web design
+- User Interface
+- - Web design
 - +234 7054922089
 - gabriel.oladimeji81@gmail.com
 
